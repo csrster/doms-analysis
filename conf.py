@@ -48,7 +48,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'doms-analysis'
+project = u'domsanalysis'
 copyright = u'2016, Colin Rosenthal'
 author = u'Colin Rosenthal'
 
@@ -259,7 +259,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'doms-analysis.tex', u'doms-analysis Documentation',
+    (master_doc, 'domsanalysis.tex', u'domsanalysis Documentation',
      u'Colin Rosenthal', 'manual'),
 ]
 
@@ -295,7 +295,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'doms-analysis', u'doms-analysis Documentation',
+    (master_doc, 'domsanalysis', u'domsanalysis Documentation',
      [author], 1)
 ]
 
@@ -310,8 +310,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'doms-analysis', u'doms-analysis Documentation',
-     author, 'doms-analysis', 'One line description of project.',
+    (master_doc, 'domsanalysis', u'domsanalysis Documentation',
+     author, 'domsanalysis', 'One line description of project.',
      'Miscellaneous'),
 ]
 
