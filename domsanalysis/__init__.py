@@ -1,7 +1,2 @@
-import unittest
+import config, findMulti, findObjectFromTVMeter, findRitzau, findTVMeter, readTriples
 
-
-class Something(unittest.TestCase):
-
-    def test_init(self):
-        pass
